@@ -1,0 +1,5 @@
+C:\Users\twagg\source\repos\myRetail\myRetail
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=myRetail
+--content-root=C:\Users\twagg\source\repos\myRetail\myRetail
+--file=

@@ -1,0 +1,10 @@
+C:\Users\twagg\source\repos\myRetail\myRetail\bin\Release\netcoreapp2.0\myRetail.deps.json
+C:\Users\twagg\source\repos\myRetail\myRetail\bin\Release\netcoreapp2.0\myRetail.runtimeconfig.json
+C:\Users\twagg\source\repos\myRetail\myRetail\bin\Release\netcoreapp2.0\myRetail.runtimeconfig.dev.json
+C:\Users\twagg\source\repos\myRetail\myRetail\bin\Release\netcoreapp2.0\myRetail.dll
+C:\Users\twagg\source\repos\myRetail\myRetail\bin\Release\netcoreapp2.0\myRetail.pdb
+C:\Users\twagg\source\repos\myRetail\myRetail\obj\Release\netcoreapp2.0\myRetail.csproj.CoreCompileInputs.cache
+C:\Users\twagg\source\repos\myRetail\myRetail\obj\Release\netcoreapp2.0\myRetail.AssemblyInfoInputs.cache
+C:\Users\twagg\source\repos\myRetail\myRetail\obj\Release\netcoreapp2.0\myRetail.AssemblyInfo.cs
+C:\Users\twagg\source\repos\myRetail\myRetail\obj\Release\netcoreapp2.0\myRetail.dll
+C:\Users\twagg\source\repos\myRetail\myRetail\obj\Release\netcoreapp2.0\myRetail.pdb
